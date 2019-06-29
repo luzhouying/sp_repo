@@ -13,6 +13,7 @@ public class Item {
 	//第二天自己上传
 	//第二天二组上传
 	//第三天自己上传
+	//第三天晚上二组上传
 	private Integer id;
 	private String name;
 	private Integer number;
