@@ -8,10 +8,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Item {
-	//测试git
-	//22222222222222
-	//11111111111111111
-	//444444444444444
+	//二组上传
 	private Integer id;
 	private String name;
 	private Integer number;
