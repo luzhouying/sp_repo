@@ -2,8 +2,8 @@ spring:
   cloud:
     config:
       discovery:
-        enabled: true
-        service-id: config-server
+        enabled: true           #允许从配置中心获取配置
+        service-id: config-server         #配置中心服务ID
       name: item-service
       profile: dev
       
