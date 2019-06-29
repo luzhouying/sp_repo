@@ -10,6 +10,7 @@ import lombok.NoArgsConstructor;
 public class Item {
 	//二组上传
 	//自己上传
+	//第二天自己上传
 	private Integer id;
 	private String name;
 	private Integer number;
